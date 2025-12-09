@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Ronielle!
 
-💻 Desenvolvedor Fullstack | 🎨 Apaixonado por Desenvolviemnto Web e Programação 
+💻 Desenvolvedor Fullstack | 🎨 Apaixonado por Desenvolviemnto Web e Programação
 🚀 Explorando novas tecnologias e criando soluções criativas  
 📍 Volta Redonda, RJ - Brasil
 
