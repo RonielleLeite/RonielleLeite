@@ -19,8 +19,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?logo=postgresql&logoColor=white)
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronielle&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronielle&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/ronielle-leite/)
