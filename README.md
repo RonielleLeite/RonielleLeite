@@ -37,7 +37,7 @@
 ## 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronielle-leite/)  
-- 📧 **ronielle.leite.ti@outlook.com.br**
+- 📧 **ronielle.leite@outlook.com.br**
 
 ---
 
