@@ -21,7 +21,6 @@
 
 | Projeto       | Descrição                                      | Link |
 |---------------|------------------------------------------------|------|
-| 📝 **ToDo List**  | Lista de tarefas com funcionalidades básicas   | [Ver projeto](https://github.com/RonielleLeite/ToDoList) |
 | 📄 **Currículo**  | Repositório curricular com informações pessoais| [Ver projeto](https://github.com/RonielleLeite/RepositorioCurricular) |
 
 ---
