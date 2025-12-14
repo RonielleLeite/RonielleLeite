@@ -22,7 +22,7 @@
 | Projeto       | Descrição                                      | Link |
 |---------------|------------------------------------------------|------|
 | 📄 **Currículo**  | Repositório curricular com informações pessoais| [Ver projeto](https://ronielleleite.github.io/Repositorio.Curricular/) |
-| 📄 **Projeto Caixa SuperMercado**  | Repositório curricular com informações pessoais| [Ver projeto](https://ronielleleite.github.io/Caixa-SuperMercado/) |
+| 📄 **Projeto Caixa SuperMercado**  | Projeto básico de uma programação em treinamento.| [Ver projeto](https://ronielleleite.github.io/Caixa-SuperMercado/) |
 
 ---
 
