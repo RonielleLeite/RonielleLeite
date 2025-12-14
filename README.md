@@ -1,22 +1,40 @@
-👨‍💻 Desenvolvedor iniciante | HTML, CSS, JavaScript  
-🚀 Explorando projetos open source e GitHub Pages  
-📍 Volta Redonda, RJ - Brasil  
-💡 Apaixonado por aprender e compartilhar conhecimento
+# 👋 Olá, eu sou Ronielle Leite!
 
-| # 🛒 Caixa-SuperMercado |
-**Supermercado Baratinho** é um sistema simples desenvolvido em **HTML, CSS e JavaScript** para simular o gerenciamento de produtos em um mercado.
+Sou apaixonado por tecnologia e desenvolvimento web, explorando **HTML, CSS e JavaScript** para criar projetos simples e divertidos. 🚀  
 
-| # Portifolio - Curricular |
+---
 
-** Portifólio Curricular onde demonstro meus objetivos, conhecimento extras curriculares e minhas formações.
+## 🌟 Sobre mim
+- 🔭 Atualmente trabalhando em projetos pessoais como **Caixa-SuperMercado** e **Portfólio Curricular**
+- 🌱 Aprendendo mais sobre **GitHub Pages** e deploy de sites
+- 💡 Curioso e apaixonado por aprender coisas novas
+- 🤝 Aberto a colaborações e ideias da comunidade
 
-## 🚀 Funcionalidades
-- Adicionar produtos ao carrinho
-- Calcular total da compra
-- Interface simples e intuitiva
-- Código aberto para estudo e melhorias
+---
 
-## 📦 Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/ronielleleite/Caixa-SuperMercado.git
+## 📂 Meus Repositórios
+- 🛒 [Caixa-SuperMercado](https://github.com/ronielleleite/Caixa-SuperMercado)  
+- 📑 [Portfólio Curricular](https://github.com/ronielleleite/portfolio-curricular)
+
+---
+
+## 🛠️ Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+## 📊 Estatísticas
+![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronielleleite&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronielleleite&layout=compact&theme=radical)
+
+---
+
+## 📫 Vamos nos conectar
+- 💼 [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)*
+- 📧 Email: *(adicione seu email aqui)*
+
+---
+
+⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios e me seguir!
