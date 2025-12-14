@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.26b6a25e-8bf4-4d85-acde-e21cc049125d.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/RonielleLeite/RonielleLeite/refs/heads/main/ezgif.com-resize.gif" width="100%" alt="Banner Tecnológico Animado" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou Ronielle Leite!</h1>
