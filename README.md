@@ -1,43 +1,22 @@
-# 👋 Olá, eu sou Ronielle Leite!
+👨‍💻 Desenvolvedor iniciante | HTML, CSS, JavaScript  
+🚀 Explorando projetos open source e GitHub Pages  
+📍 Volta Redonda, RJ - Brasil  
+💡 Apaixonado por aprender e compartilhar conhecimento
 
-🎯 Desenvolvedor **FullStack** apaixonado por criar soluções digitais intuitivas e funcionais.  
-🚀 Explorando novas tecnologias e colocando em prática tudo que aprendo.  
-📚 Pós-graduando em **Desenvolvimento Full Stack com práticas de DevOps**.  
-💡 Curiosidade: adoro transformar ideias em produtos digitais que facilitam a vida das pessoas.
+| # 🛒 Caixa-SuperMercado |
+**Supermercado Baratinho** é um sistema simples desenvolvido em **HTML, CSS e JavaScript** para simular o gerenciamento de produtos em um mercado.
 
----
+| # Portifolio - Curricular |
 
-## 🛠️ Tecnologias e Ferramentas
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+** Portifólio Curricular onde demonstro meus objetivos, conhecimento extras curriculares e minhas formações.
 
----
+## 🚀 Funcionalidades
+- Adicionar produtos ao carrinho
+- Calcular total da compra
+- Interface simples e intuitiva
+- Código aberto para estudo e melhorias
 
-## 📂 Portfólio de Projetos
-
-| Projeto       | Descrição                                      | Link |
-|---------------|------------------------------------------------|------|
-| 📄 **Currículo**  | Repositório curricular com informações pessoais| [Ver projeto](https://ronielleleite.github.io/Repositorio.Curricular/) |
-| 📄 **Projeto Caixa SuperMercado**  | Projeto básico de uma programação em treinamento.| [Ver projeto](https://ronielleleite.github.io/Caixa-SuperMercado/) |
-
----
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical)
-
----
-
-## 📬 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ronielle-leite/)  
-- 📧 **ronielle.leite@outlook.com.br**
-
----
-
-✨ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e conectar comigo.*
+## 📦 Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ronielleleite/Caixa-SuperMercado.git
