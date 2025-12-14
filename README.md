@@ -1,3 +1,6 @@
+![Banner Tecnológico](https://copilot.microsoft.com/th/id/BCO.4ee12fb7-408c-4967-be45-e459bb44f748.png)
+
+
 # 👋 Olá, eu sou Ronielle Leite!
 
 Sou apaixonado por tecnologia e desenvolvimento web, explorando **HTML, CSS e JavaScript** para criar projetos simples e divertidos. 🚀  
@@ -13,8 +16,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, explorando **HTML, CSS e Ja
 ---
 
 ## 📂 Meus Repositórios
-- 🛒 [Caixa-SuperMercado](https://github.com/ronielleleite/Caixa-SuperMercado)  
-- 📑 [Portfólio Curricular](https://github.com/ronielleleite/portfolio-curricular)
+- 🛒 [Caixa-SuperMercado](https://ronielleleite.github.io/Caixa-SuperMercado/)  
+- 📑 [Portfólio Curricular](https://ronielleleite.github.io/Repositorio.Curricular/)
 
 ---
 
@@ -26,14 +29,14 @@ Sou apaixonado por tecnologia e desenvolvimento web, explorando **HTML, CSS e Ja
 ---
 
 ## 📊 Estatísticas
-![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronielleleite&show_icons=true&theme=radical)
+![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronielleleite&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Vamos nos conectar
-- 💼 [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)*
-- 📧 Email: *(adicione seu email aqui)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronielle-leite/)
+- 📧 Email: *ronielle.leite@outlook.com.br*
 
 ---
 
