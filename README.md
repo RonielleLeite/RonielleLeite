@@ -21,7 +21,7 @@
 
 | Projeto       | Descrição                                      | Link |
 |---------------|------------------------------------------------|------|
-| 📄 **Currículo**  | Repositório curricular com informações pessoais| [Ver projeto](https://github.com/RonielleLeite/RepositorioCurricular) |
+| 📄 **Currículo**  | Repositório curricular com informações pessoais| [Ver projeto](https://ronielleleite.github.io/Repositorio.Curricular/) |
 
 ---
 
