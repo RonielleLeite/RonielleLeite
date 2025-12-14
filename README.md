@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RonielleLeite/RonielleLeite/refs/heads/main/ezgif.com-resize.gif" width="100%" alt="Banner Tecnológico Animado" />
+  <img src="https://raw.githubusercontent.com/RonielleLeite/RonielleLeite/main/banner.gif" width="100%" alt="Banner Tecnológico Animado" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou Ronielle Leite!</h1>
