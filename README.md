@@ -1,9 +1,12 @@
-![Banner Tecnológico](https://copilot.microsoft.com/th/id/BCO.4ee12fb7-408c-4967-be45-e459bb44f748.png)
+<div align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.26b6a25e-8bf4-4d85-acde-e21cc049125d.png" width="100%" />
+</div>
 
-
-# 👋 Olá, eu sou Ronielle Leite!
-
-Sou apaixonado por tecnologia e desenvolvimento web, explorando **HTML, CSS e JavaScript** para criar projetos simples e divertidos. 🚀  
+<h1 align="center">👋 Olá, eu sou Ronielle Leite!</h1>
+<p align="center">
+  Desenvolvedor web explorando <strong>HTML, CSS, JavaScript, ReactJS, VueJS, Bootstrap, MySQL e Angular</strong>.<br>
+  Apaixonado por tecnologia, projetos open source e aprendizado contínuo 🚀
+</p>
 
 ---
 
