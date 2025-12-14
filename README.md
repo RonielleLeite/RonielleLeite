@@ -25,6 +25,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?logo=react&logoColor=61DAFB)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ---
 
