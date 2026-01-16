@@ -35,12 +35,15 @@
 ---
 ## 📊 Estatísticas
 
-🔥 **Atividade no GitHub**
-![Ronielle's GitHub stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical)
+🏆 **Troféus do GitHub**
+[![Trophy](https://github-profile-trophy.vercel.app/?username=RonielleLeite&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-💻 **Linguagens mais usadas**
-![Top Langs](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical)
+⭐ **Badges**
+![GitHub followers](https://img.shields.io/github/followers/RonielleLeite?style=social)
+![GitHub stars](https://img.shields.io/github/stars/RonielleLeite?style=social)
 
+📈 **Gráfico de Contribuições**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonielleLeite&theme=radical)
 ---
 
 ## 📫 Vamos nos conectar
