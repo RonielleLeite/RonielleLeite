@@ -33,10 +33,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ---
-
 ## 📊 Estatísticas
-![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical)
+![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
