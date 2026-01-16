@@ -34,8 +34,12 @@
 
 ---
 ## 📊 Estatísticas
-![Ronielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical&cache_seconds=1800)
+
+🔥 **Atividade no GitHub**
+![Ronielle's GitHub stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=RonielleLeite&show_icons=true&theme=radical)
+
+💻 **Linguagens mais usadas**
+![Top Langs](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=radical)
 
 ---
 
