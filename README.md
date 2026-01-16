@@ -43,7 +43,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/RonielleLeite?style=social)
 
 📈 **Gráfico de Contribuições**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonielleLeite&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonielleLeite&theme=github)
 ---
 
 ## 📫 Vamos nos conectar
