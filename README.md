@@ -16,8 +16,7 @@
 ---
 
 ## 📂 Meus Repositórios
-- 🛒 [Caixa-SuperMercado](https://ronielleleite.github.io/Caixa-SuperMercado/)  
-- 📑 [Portfólio Curricular](https://ronielleleite.github.io/Repositorio.Curricular/)
+- 🛒 [Caixa-SuperMercado](https://ronielleleite.github.io/Caixa-SuperMercado/)
 - 📚 [Treinando Dom](https://github.com/RonielleLeite/Manipulando-DOM-js.git)
 - 📚 [Repositório Profissional](https://ronielleleite.github.io/Repositorio-Profissional/)
 
