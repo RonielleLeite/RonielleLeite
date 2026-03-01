@@ -36,7 +36,7 @@
 ## 📊 Estatísticas
 
 🏆 **Troféus do GitHub**
-[![Trophy](https://github-profile-trophy.vercel.app/?username=RonielleLeite&theme=radical)]
+[(https://github-profile-trophy.vercel.app/?username=RonielleLeite&theme=radical)]
 
 ⭐ **Badges**
 ![GitHub followers](https://img.shields.io/github/followers/RonielleLeite?style=social)
