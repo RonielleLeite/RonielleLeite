@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header Background](https://d2xsxph8kpxj0f.cloudfront.net/310519663394349273/LNkbEMZnGAp4A4TdsgGN8v/github-profile-header-ZhMNwFA2CNxewrNqTeM6bi.webp)
+
 # 👋 Ronielle Leite
 
 ### Full Stack Developer | React Enthusiast | Open Source Contributor
