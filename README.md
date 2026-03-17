@@ -12,6 +12,14 @@
 
 </div>
 
+<div align="center">
+
+![Cartão de Visita - Ronielle Leite](https://d2xsxph8kpxj0f.cloudfront.net/310519663394349273/LNkbEMZnGAp4A4TdsgGN8v/ronielle-business-card-personalized-97fF5dmmnFgiSXHQK6LK37.webp)
+
+</div>
+
+---
+
 ## 🚀 Sobre Mim
 
 Sou um desenvolvedor web apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento full stack, tenho dedicado meu tempo a aprender e dominar as tecnologias mais modernas do ecossistema JavaScript. Sou entusiasta de código limpo, boas práticas e colaboração em comunidades open source.
