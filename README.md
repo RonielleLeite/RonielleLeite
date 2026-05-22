@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Cartão de Visita - Ronielle Leite](https://d2xsxph8kpxj0f.cloudfront.net/310519663394349273/LNkbEMZnGAp4A4TdsgGN8v/ronielle-business-card-personalized-97fF5dmmnFgiSXHQK6LK37.webp)
+![Cartão de Visita - Ronielle Leite](card_updated.png)
 
 </div>
 
@@ -100,8 +100,8 @@ Aplicação React que permite buscar e explorar perfis do GitHub em tempo real. 
 
 ## 🎯 Objetivos & Aprendizado Contínuo
 
-- 🔭 Aprofundar conhecimentos em **React** e **TypeScript**
-- 🌱 Explorar **Next.js** e **Node.js** avançado
+- 🔭 Aprofundar conhecimentos em **React** e **Java**
+- 🌱 Explorar **Spring Boot** e **PostgreSQL** avançado
 - 💡 Contribuir mais ativamente em projetos **open source**
 - 🚀 Desenvolver aplicações **full stack** escaláveis
 - 📱 Aprender **React Native** para desenvolvimento mobile
