@@ -78,13 +78,6 @@ Portfólio curricular completo apresentando habilidades, experiências e projeto
 
 ---
 
-### 🔍 [GitFind - Explorador de Perfis GitHub](https://github.com/RonielleLeite/GitFind_Api_React)
-Aplicação React que permite buscar e explorar perfis do GitHub em tempo real. Consumo da GitHub API com interface limpa e responsiva.
-
-**Tecnologias**: React • JavaScript • GitHub API • CSS3
-
----
-
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
