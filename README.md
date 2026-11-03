@@ -2,10 +2,7 @@
 
 # 👋 Ronielle Leite
 
-<!-- Banner com Efeito de Digitação em Tempo Real -->
-<a href="https://github.com/RonielleLeite">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=550&lines=Desenvolvedor+Front-end+%26+Soluções+Web;Criador+do+Bela+Vista+Hotel+%26+Resort;Estudante+de+Engenharia+de+Software;Angular+%7C+Vue.js+%7C+React+%7C+Java+%7C+C%2B%2B" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=550&lines=Desenvolvedor+Front-end;Criador+do+Bela+Vista+Hotel;Angular+%7C+Vue.js+%7C+React;Java+%7C+C%2B%2B+%7C+JavaScript" alt="Ronielle Leite - Desenvolvedor" />
 
 <br>
 
