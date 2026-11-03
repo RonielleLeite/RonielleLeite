@@ -87,17 +87,14 @@ Projeto prático focado em técnicas avançadas de seleção, mutação e escuta
 
 <div align="center">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RonielleLeite&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonielleLeite&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" />
+  <!-- Card Oficial de Consistência e Contribuições (100% Funcional) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RonielleLeite&theme=tokyonight&hide_border=true" />
 
   <br><br>
 
-  <!-- Card de Consistência e Dias Ativos -->
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=RonielleLeite&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonielleLeite&theme=github-dark&hide_border=true)
+  <!-- Badges Oficiais de Atividade -->
+  ![GitHub followers](https://img.shields.io/github/followers/RonielleLeite?style=for-the-badge&logo=github&color=0f172a&labelColor=c5a880)
+  ![GitHub stars](https://img.shields.io/github/stars/RonielleLeite?style=for-the-badge&logo=github&color=0f172a&labelColor=c5a880)
 
 </div>
 
