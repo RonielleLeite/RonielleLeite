@@ -2,7 +2,9 @@
 
 # 👋 Ronielle Leite
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=550&lines=Desenvolvedor+Front-end;Criador+do+Bela+Vista+Hotel;Angular+%7C+Vue.js+%7C+React;Java+%7C+C%2B%2B+%7C+JavaScript" alt="Ronielle Leite - Desenvolvedor" />
+<a href="https://github.com/RonielleLeite">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Front-end;Criador+do+Bela+Vista+Hotel;Angular+%7C+Vue.js+%7C+React;Java+%7C+C%2B%2B+%7C+JavaScript" alt="Ronielle Leite - Desenvolvedor" />
+</a>
 
 <br>
 
